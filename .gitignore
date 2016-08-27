@@ -1,3 +1,6 @@
+# ignote txt files
+*.txt
+
 # Compiled Object files
 *.slo
 *.lo
